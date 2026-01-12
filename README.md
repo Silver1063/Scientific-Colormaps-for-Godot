@@ -11,7 +11,7 @@ The Gradient resources will be added to the root of your project, use them howev
 
 The script itself is MIT License all you gotta do is add the license somewhere, or just use it and delete it I won't know...
 The colormap data itself are
-CC0 Magma | Inferno, Plasma, Viridis from
+CC0 | Magma, Inferno, Plasma, Viridis from
 https://github.com/BIDS/colormap
 
 Apache-2.0 | Turbo from
